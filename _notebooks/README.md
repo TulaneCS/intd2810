@@ -17,3 +17,4 @@ Each of these demo notebooks can be used in Colab to demo in class.
 |-------|--------|------|
 |01| Intro to Python! | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TulaneCS/intd2810/blob/main/_notebooks/Demo_01.ipynb)|
 |02| Python and Working with Data | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TulaneCS/intd2810/blob/main/_notebooks/Demo_02.ipynb)|
+|03| Classification and Working With Text | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TulaneCS/intd2810/blob/main/_notebooks/Demo_03.ipynb)|
